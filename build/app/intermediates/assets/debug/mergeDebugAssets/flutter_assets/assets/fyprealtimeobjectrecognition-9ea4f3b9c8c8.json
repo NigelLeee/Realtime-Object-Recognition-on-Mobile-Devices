@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fyprealtimeobjectrecognition",
+  "private_key_id": "9ea4f3b9c8c838f9209446d606b7bbae586ad887",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWWUBxvZc2tFvj\nkkMQxV5Se2YgcKSsdLjIrrzwk364YIx9qRTzQJqsD/QggPKrRW61Kybi6wicAGiL\nXKoJ1cuO7wlzI8Rl2jNqOsNCdiqpka0Hg7hT/tIhc037hUs43ehdzMu03n2teTWG\ndDRPC5VXVBY/DJPHmwHLHNJAUWR4dfrc6/HM8by2/t7dvkT3lp/8uzX0MQ+zGjr+\n1L8sn/pE/K0yBXBD/GdsZ4ml4G2IaynjOd8YfgMGMkGJmmR+sxiF3At7cOX9mlsi\nV0vIXEvuYLcGlHqsmuz3SV4pfgp7I0fblaVX1vzzxnqGDjqWSMyIED0cFdRsRx8+\nDOl9r0YZAgMBAAECggEADzBb5LNul63IJSQkJHgX6vhbkEjrIl1TCsV3FgUdoasV\nyYHFvkcBrteikPsSNxjAc44PP10wSv2satOyKOhBeGtv2/zY2e7QXeK0G22MMF/m\nRvYKhck00rH9AKm9XtY6tQriFHr/pN9F77UkT8WeW4XV3bnibu6I/f+Y1n3uBKsW\nR1ZC2a/8WAhNFzFFuA41l650DRqpPmVWLDHZhDTwDyN8XMk9Os5YWPHxgrtYOk3x\nhrPY59GmGhFAWPGPGZ8kBhtV7gz4u8AG9UzmwlMOVlSZyBFG1AqbZqXwlY/ZYXGb\nF+zI8DLvXcmSOjpRJaATDeV4EB6bXefULk/JBeqQAQKBgQD7gvDbgC2M6hlvwYXt\nlEYCzncxDiyYhIWuQlhqU0DIctQjEl4sgLpwJqH4jQ02A+Vj/XO1Bdz4sgS2XQe8\n7Rxro1LH37iyPhYvsC0g9MxFqkocm+OjRwvcMLhyzfsjpgs40z8xAPfBcv0PVnhj\niEd8vJ2hLlT8BugLucyQuBOVgQKBgQDaLIc0Smevd/fk4ooYsWAtuWX9pXtn6MKa\nUqUHj5b3YmPhpaD6xl48jG0C1mhU+USDtkp8VmbxbZItyCP2HJmr7yPVD8NLTUFt\n9rFUiyOAkRnnjgXLasWPRfDhBX4b5soxWJsz5jQmEyWWMcKizKt/+blIDSM3Zy4C\npAFSECjsmQKBgQCxMMe1LHFq1EZFWIadIRfNxF1ufvjmHn77jJwzlCGQ1m0jpD4a\nhjpS5rS3oc/L3STPs/C/eLj7sJbnT1UzQa0DHBYm4DODx3/j6u9wR2ZeMiFyVFUk\nY9o0L1LS9tDWhZVkXFcpk+/4JqWoF5hLLuiGNW+r7TNMNyVllWlMD5MkgQKBgHVH\nLGK6gGP9bD8YW72MU7Qgjie79ctUfo9wT4/x6ugOdryMSS2kxnFr1wmIccsDt4XJ\nzt5pn6q2CLcdd99LXnvi7/MPJx7qZ3qR+p8EsE/jL/aeDJVdTteGdEaxqimbdSLz\ni3Jpk6zH7BOBqivTM3l2pteJYF3e1AfNW3xefXE5AoGBALsUifGXdjv8uTKTDtpM\neCid7C9dM1lCuBkMDjwZWBQ3TTpyoKCpCwoe+vkGfMx2SJPyzdEDOJMyGUnviBBF\nlA+ldG8pccOWtXSmt5Oy1StjvTPt6QVDMKqYdmHZ2b/noYcWNU6/tManfqrHKsLe\nV9rdaupMyKCny8/dsqxNF1gC\n-----END PRIVATE KEY-----\n",
+  "client_email": "automl-vision-sa@fyprealtimeobjectrecognition.iam.gserviceaccount.com",
+  "client_id": "110464847400145751820",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/automl-vision-sa%40fyprealtimeobjectrecognition.iam.gserviceaccount.com"
+}
